@@ -5,12 +5,20 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-
+-Software engineering is a technological way of solving problems.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+- mastering machine (1956 - 1967)
+- mastering process (1968 - 1982)
+- mastering complexity (1983 - 1992)
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
+- Planning (This is the phase of planning and checking all the possible outcomes)
+- Design (This is the phase of checking how your project will look like but in a prototype)
+- Development (This is the phase of creating the software)
+- Deployment (This is the phase of pushing the software out so others can use it)
+- Maintenace (This is the phase of continuously updatin the software)
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
@@ -23,6 +31,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+- some of the chalenges are capital, programming langusge to use, etc.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
